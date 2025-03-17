@@ -1,15 +1,15 @@
 {
-  "name": "Jailson Webradio",
-  "short_name": "Jailson Webradio",
-  "description": "Música sem Gospel sem parar!",
+  "name": "Tiempo Final Webradio",
+  "short_name": "Tiempo Final Webradio",
+  "description": "¡Palabras de Vida a tu Corazón!",
   "icons": [
     {
-      "src": "assets/jailson_cover.png",
+      "src": "assets/image - copia - copia (4).jpg",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "assets/jailson_cover.png",
+      "src": "assets/image - copia - copia (4).jpg",
       "type": "image/png",
       "sizes": "512x512"
     }
@@ -29,19 +29,19 @@
   ],
   "screenshots": [
     {
-      "src": "assets/jailson_cover.png",
+      "src": "assets/image - copia - copia (4).jpg",
       "type": "image/png",
       "sizes": "540x720",
       "form_factor": "narrow"
     },
     {
-      "src": "assets/jailson_cover.png",
+      "src": "assets/image - copia - copia (4).jpg",
       "type": "image/png",
       "sizes": "540x720",
       "form_factor": "narrow"
     },
     {
-      "src": "assets/jailson.png",
+      "src": "assets/image - copia - copia (4).jpg",
       "type": "image/png",
       "sizes": "720x540",
       "form_factor": "wide"
